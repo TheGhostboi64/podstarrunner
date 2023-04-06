@@ -7,4 +7,4 @@ It started in 2006 and ended around 2008. You could download m4v files to your i
 
 # About This Project
 This will revive the iPod Versions of Strong Bad Emails and more, by using a podcast xml.
-Teen Girl Squads and Strong Bad Email will have their seperate xml.
+Teen Girl Squads and Strong Bad Email will have their own seperate xml.
