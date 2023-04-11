@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+	<channel>
+		<ttl>60</ttl>
+		<title>Strong Bad Email</title>
+		<link>http://old.homestarrunner.com/podcast/</link>
+		<language>en-us</language>
+		<copyright>&#x2117; &amp; &#xA9; 2006 homestarrunner.com</copyright>
+		<itunes:subtitle>HomestarRunner.com</itunes:subtitle>
+		<itunes:author>HomestarRunner.com: Video</itunes:author>
+		<itunes:summary>Strong Bad answers real emails from real morons!</itunes:summary>
+		<description>Strong Bad answers real emails from real morons!</description>
+		<itunes:owner>
+			<itunes:name>www.homestarrunner.com</itunes:name>
+			<itunes:email>podstar@homestarrunner.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://old.homestarrunner.com/podcast/hrpodcast_pic.jpg" />
+		<itunes:category text="Comedy"/>
+		
+		 
+		<item>
+			<title>Email Thunder</title>
+			<itunes:author>Strong Bad</itunes:author>
+			<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+			<itunes:summary>Strong Bad finds out Homestar has his own email show and is trying to steal his email thunder.</itunes:summary>
+			<enclosure url="http://old.homestarrunner.com/podcast/sbemail200.m4v" 			  type="audio/x-m4v" />
+			<guid>http://old.homestarrunner.com/podcast/sbemail200.m4v</guid>
+			<pubDate>Thurs, 18 December 2008 12:00:00 GMT</pubDate>
+			<itunes:duration>5:29</itunes:duration>
+			<itunes:keywords>Strong Bad, Homestar Runner, homestarrunner.com, sbemail 			</itunes:keywords>
+		</item>
+	</channel>
+</rss>
