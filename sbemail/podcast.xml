@@ -28,5 +28,16 @@
 			<itunes:duration>5:29</itunes:duration>
 			<itunes:keywords>Strong Bad, Homestar Runner, homestarrunner.com, sbemail 			</itunes:keywords>
 		</item>
+		<item>
+			<title>Being Mean</title>
+			<itunes:author>Strong Bad</itunes:author>
+			<itunes:subtitle>Strong Bad Email</itunes:subtitle>
+			<itunes:summary>Strong Bad tries to give Nice Dad advice on not being mean.</itunes:summary>
+			<enclosure url="http://old.homestarrunner.com/podcast/sbemail199.m4v" 			  type="audio/x-m4v" />
+			<guid>http://old.homestarrunner.com/podcast/sbemail199.m4v</guid>
+			<pubDate>Sat, 20 December 2008 12:00:00 GMT</pubDate>
+			<itunes:duration>3:40</itunes:duration>
+			<itunes:keywords>Strong Bad, Homestar Runner, homestarrunner.com, sbemail 			</itunes:keywords>
+		</item>
 	</channel>
 </rss>
